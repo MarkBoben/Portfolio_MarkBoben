@@ -216,8 +216,7 @@ window.addEventListener('load', () => {
 });
 
 /* ---------- Contact form submission ---------- */
-// Replace with your deployed backend URL (e.g. https://mark-portfolio-api.onrender.com/contact)
-const CONTACT_ENDPOINT = 'https://YOUR-BACKEND-URL.onrender.com/contact';
+const CONTACT_ENDPOINT = 'https://portfolio-markboben.onrender.com/contact';
 
 const contactForm = document.getElementById('contact-form');
 const cfSubmit = document.getElementById('cf-submit');
